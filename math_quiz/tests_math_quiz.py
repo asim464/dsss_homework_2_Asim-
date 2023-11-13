@@ -22,14 +22,13 @@ class TestMathGame(unittest.TestCase):
     def test_function_C(self):
             test_cases = [
                 (5, 2, '+', '5 + 2', 7),
-
-                (5,3, "*", "5*3", 15),
+                (5, 3, "*", "5*3", 15),
                 (10, 2, "-", "10-2", 8)
     
             ]
 
             for num1, num2, operator, expected_problem, expected_answer in test_cases:
-                problem,result = math_problem(num1,num2,operator)
+                problem, result = math_problem(num1, num2, operator)
                 self.assertEqual(result,expected_answer)
                 pass
 
