@@ -1,7 +1,6 @@
 from setuptools import setup, find_packages
-
 setup(
-	name=" datascience",
-	version="0.1",
-	packages=find_packages(),
+    name="mypackage",
+    version="0.1",
+    packages=find_packages(),
 )
