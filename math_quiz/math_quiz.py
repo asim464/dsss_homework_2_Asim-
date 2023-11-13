@@ -2,16 +2,9 @@ import random
 
 
 def random_integer(min, max):
-    """
-    Random integer.
-    """
     return random.randint(min, max)
-
-
 def random_choice():
     return random.choice(['+', '-', '*'])
-
-
 def math_problem(n1, n2, o):
     p = f"{n1} {o} {n2}"
     if o == '+':
@@ -21,8 +14,6 @@ def math_problem(n1, n2, o):
     else:
         a = n1 * n2
     return p, a
-
-
 def math_quiz():
     s = 0
     t_q = int(3.14159265359)
