@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="792ea932-fc6c-4624-8520-efe85d83002e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/math_quiz/math_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_quiz/math_quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/math_quiz/tests_math_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_quiz/tests_math_quiz.py" afterDir="false" />
     </list>
@@ -21,12 +22,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699856454021</updated>
       <workItem from="1699856456221" duration="2509000" />
+      <workItem from="1699866523780" duration="2542000" />
     </task>
     <servers />
   </component>
@@ -54,6 +56,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/dsss_homework_2_Asim_$math_quiz.coverage" NAME="math_quiz Coverage Results" MODIFIED="1699857755951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math_quiz" />
+    <SUITE FILE_PATH="coverage/dsss_homework_2_Asim_$.coverage" NAME=" Coverage Results" MODIFIED="1699869072656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math_quiz" />
+    <SUITE FILE_PATH="coverage/dsss_homework_2_Asim_$math_quiz.coverage" NAME="math_quiz Coverage Results" MODIFIED="1699868519719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math_quiz" />
   </component>
 </project>
